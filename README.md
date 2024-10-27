@@ -1,5 +1,6 @@
 # Friday-Project-7
 This repository includes all previous Friday Projects, except they were built by Claude.
+This reposotory was assembled by Brad Thompson for Dr. Clary's DS3850-001 class. All instructions for assignments given to Claude are available on iLearn.
 
 --------------
 
